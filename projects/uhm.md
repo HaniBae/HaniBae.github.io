@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/University_of_Hawaii_at_Manoa_Logo.png
 title: "UHM"
 date: 2023-08-26
 published: true
