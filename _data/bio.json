@@ -41,12 +41,15 @@
       ]
     }
   ],
-  "work": [
-    {
-      "name": ""
-    }
-  ],
   "volunteer": [
+    {
+      "organization": "University of Vienna",
+      "website": "https://www.univie.ac.at/en/",
+      "position": "Student",
+      "startDate": "2023-02-03",
+      "endDate": "2023-02-17",
+      "summary": "Attended the univie: winter school 2023",
+    },
     {
       "organization": "University of Hawaii at Manoa",
       "website": "http://manoa.hawaii.edu/",
